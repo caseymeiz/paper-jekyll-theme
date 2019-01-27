@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-plugin "jekyll", "3.8.5"
-plugin "html-proofer"
-plugin "jekyll-remote-theme"
+gem "jekyll", "3.8.5"
+gem  "html-proofer"
+gem "jekyll-remote-theme"
